@@ -36,7 +36,7 @@ This is our second experiment in building a collaborative tracing environment us
 2. Git will insert "edit markers" ("<<<<<" and ">>>>>") that must be resolved before pushing.
 3. The series file is changed whenever the view is changed (almost every Reconstruct session).
 
-The simplest resolution for problem (1) is to simply not have multiple people working on the same section. The nice thing about having this README file as part of the Git repository is that it documents the "claiming" and "unclaiming" of sections in the same history with the updates to those sections. So there should be no question whether someone changed a section without claiming it first. The "claiming" commit should always happen before the changes, and it will be visible in the commit history.
+The simplest solution for problem (1) is to simply not have multiple people working on the same section. The nice thing about having this README file as part of the Git repository is that it documents the "claiming" and "unclaiming" of sections in the same history with the updates to those sections. So there should be no question whether someone changed a section without claiming it first. The "claiming" commit should always happen before the changes, and it will be visible in the commit history.
 
 The solution to problem (2) is likely more experience with Git. That should happen with time.
 
