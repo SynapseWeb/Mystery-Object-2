@@ -1,0 +1,21 @@
+Steps to build a series:
+
+1. Create or obtain a 3D Object (typically in a tool like Blender).
+2. Import into Blender and create slices (use stack of planes and Boolean operator).
+3. Save each image to a file in an "images" subdirectory (currently done manually).
+4. Create a "series" subdirectory beside the "images" subdirectory to hold Series XML.
+5. Use Reconstruct to import images and create the series (note it will move images).
+6. Delete the copied images from the "series" directory (we want to get them elsewhere).
+7. Edit all section files to insert "../images/" before each image to make it relative.
+
+Steps to create a GitHub project and add files:
+
+1. In GitHub, create a new project (choose name, options, etc).
+2. In the project's parent folder, clone the project (copy the url and type: git clone url).
+3. Copy the "images" folder and the "series" folder from above into the new project folder.
+4. Add the images: git add images/*.jpg
+5. Commit the changes: git commit   (add a description via your editor)
+6. Add the XML: git add series/*.jpg
+7. Commit the changes: git commit   (add a description via your editor)
+8. Push the changes to GitHub: git push origin master
+
