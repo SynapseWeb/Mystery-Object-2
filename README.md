@@ -14,7 +14,7 @@ Step 3. **Pull** from GitHub into your local directory (**git pull origin master
 
 Step 4. **Work** on your "Claimed Sections" in Reconstruct until they're done (or done for now).
 
-Step 5. **Commit** your changes locally (**git git commit -a** or similar alternatives).
+Step 5. **Commit** your changes locally (**git commit -a** or similar alternatives).
 
 Step 6. **Pull** again from GitHub and resolve any changes (in case anyone else has made changes).
 
