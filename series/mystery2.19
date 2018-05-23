@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="domain2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+<Contour name="Mystery_Object_2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
  points="0.191812 0.702762,
 	0.192518 0.698997,
 	0.192754 0.697114,
@@ -244,7 +244,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="domain2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+<Contour name="Mystery_Object_2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
  points="0.299459 0.447691,
 	0.301899 0.430344,
 	0.302441 0.428175,
@@ -500,7 +500,7 @@
 	0.299459 0.448505,
 	0.299459 0.447962,
 	"/>
-<Contour name="domain2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+<Contour name="Mystery_Object_2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
  points="0.705771 0.208349,
 	0.705771 0.208892,
 	"/>
