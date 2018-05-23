@@ -6,21 +6,23 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 ## Process
 
-Step 1. Clone this project.
+Step 1. **Clone** this project (**git clone https://github.com/SynapseWeb/Mystery-Object-2.git**).
 
-Step 2. Always start by "claiming" some number of sections and update the "Claimed Sections" below.
+Step 2. **Claim** some number of sections and **update** the "Claimed Sections" below.
 
-Step 3. Pull from GitHub into your local directory (git pull origin master).
+Step 3. **Pull** from GitHub into your local directory (**git pull origin master**).
 
-Step 4. Use Reconstruct to work on your "Claimed Sections" until they're done (or done for now).
+Step 4. **Work** on your "Claimed Sections" in Reconstruct until they're done (or done for now).
 
-Step 5. Pull again from GitHub and resolve any changes.
+Step 5. **Commit** your changes locally (**git git commit -a** or similar alternatives).
 
-Step 6. Push to GitHub (git push origin master).
+Step 6. **Pull** again from GitHub and resolve any changes (in case anyone else has made changes).
 
-Step 7. Unclaim any sections that you're done working on.
+Step 7. **Push** your changes to GitHub (**git push origin master**).
 
-Step 8. Go back to Step 2 and "claim" some more section to work on.
+Step 8. **Unclaim** any sections that you're done working on.
+
+Step 9. **Go back** to Step 2 and "claim" some more section to work on.
 
 ## Claimed Sections
 
