@@ -43,8 +43,8 @@ The solution to problem (2) is likely more experience with Git. That should happ
 The solution to problem (3) is currently to ignore it (for now). Changes in the series (.ser) file can just be accepted by each person pulling from the repository. That means that previous settings and views will now be those of the last person to have committed. There are other alternatives, but this is easiest for now.
 
 
-## "Mystery Object 2" so far (May 22nd, 2018) with sections 1 and 2 completed:
-![Animation](docs/animation.gif?raw=true "Animation")
+## "Mystery Object 2" so far (May 23rd, 2018):
+![Animation](docs/Traces_2018_05_23.png?raw=true "Animation")
 
 ## All 41 sections (showing which have been completed):
 ![CompletedFrames](docs/All_Frames.png?raw=true "CompletedFrames")
