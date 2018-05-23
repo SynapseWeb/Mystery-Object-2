@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="domain2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+<Contour name="Mystery_Object_2" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
  points="0.253079 0.416143,
 	0.25355 0.412373,
 	0.253786 0.410488,
