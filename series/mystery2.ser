@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="24" viewport="0.0858107 0.199362 0.000534993"
+<Series index="14" viewport="-0.686295 -0.124986 0.00130732"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -32,7 +32,7 @@
 	defaultBorder="1.000 0.000 1.000"
 	defaultFill="1.000 0.000 1.000"
 	defaultMode="9"
-	defaultName="domain$+"
+	defaultName="Mystery_Object_2"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -184,7 +184,7 @@
 	0 -7,
 	7 0,
 	"/>
-<Contour name="magenta$+" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
+<Contour name="Mystery_Object_2" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
  points="-6 2,
 	-6 -2,
 	-2 -6,
