@@ -32,13 +32,13 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 | # / Status | # / Status | # / Status | # / Status | # / Status | # / Status | 
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 1 / Done | 2 / Done | 3 / Done | 4 / Done | 5 / Done | 6 / Done |
-| 7 / Done | 8 / Done | 9 / Done | 10 / Done | 11 / Done | 12 / Done |
-| 13 / Done | 14 / Done | 15 / Done | 16 / Done | 17 / Done | 18 / Done |
-| 19 / Done | 20 / Done | 21 / Done | 22 / Done | 23 / Done | 24 / Done |
-| 25 / Done | 26 / Done | 27 / Done | 28 / Done | 29 / Done | 30 / Done |
-| 31 / Done | 32 / Done | 33 /  | 34 /  | 35 /  | 36 /  |
-| 37 /  | 38 /  | 39 /  | 40 /  | 41 /  |  |
+| 1 / Done  :heavy_check_mark: | 2 / Done :heavy_check_mark: | 3 / Done :heavy_check_mark: | 4 / Done :heavy_check_mark: | 5 / Done :heavy_check_mark: | 6 / Done :heavy_check_mark: |
+| 7 / Done :heavy_check_mark: | 8 / Done :heavy_check_mark: | 9 / Done :heavy_check_mark: | 10 / Done :heavy_check_mark: | 11 / Done :heavy_check_mark: | 12 / Done :heavy_check_mark: |
+| 13 / Done :heavy_check_mark: | 14 / Done :heavy_check_mark: | 15 / Done :heavy_check_mark: | 16 / Done :heavy_check_mark: | 17 / Done :heavy_check_mark: | 18 / Done :heavy_check_mark: |
+| 19 / Done :heavy_check_mark: | 20 / Done :heavy_check_mark: | 21 / Done :heavy_check_mark: | 22 / Done :heavy_check_mark: | 23 / Done :heavy_check_mark: | 24 / Done :heavy_check_mark: |
+| 25 / Done :heavy_check_mark: | 26 / Done :heavy_check_mark: | 27 / Done :heavy_check_mark: | 28 / Done :heavy_check_mark: | 29 / Done :heavy_check_mark: | 30 / Done :heavy_check_mark: |
+| 31 / Done :heavy_check_mark: | 32 / Done :heavy_check_mark: | 33 / :red_circle:  | 34 / :red_circle:  | 35 / :red_circle:  | 36 / :red_circle:  |
+| 37 / :red_circle:  | 38 / :red_circle:  | 39 / :arrows_clockwise:  | 40 / :arrows_clockwise:  | 41 / :arrows_clockwise:  |  |
 
 ## Discussion
 
