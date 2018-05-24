@@ -26,7 +26,6 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 ## Currently Claimed Sections
 
-* Sections 16-18: Dusten
 * Section 31: Bob
 
 ## Discussion
