@@ -27,6 +27,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 ## Currently Claimed Sections
 
 * Sections 19-24: Dusten
+* Sections 105-110: Kristen
 
 ## Discussion
 
