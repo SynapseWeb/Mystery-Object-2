@@ -26,7 +26,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 ## Currently Claimed Sections
 
-* Section 32: Bob
+* Section xx: Name
 
 ## Discussion
 
