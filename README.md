@@ -37,8 +37,8 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 | 13 / Done :heavy_check_mark: | 14 / Done :heavy_check_mark: | 15 / Done :heavy_check_mark: | 16 / Done :heavy_check_mark: | 17 / Done :heavy_check_mark: | 18 / Done :heavy_check_mark: |
 | 19 / Done :heavy_check_mark: | 20 / Done :heavy_check_mark: | 21 / Done :heavy_check_mark: | 22 / Done :heavy_check_mark: | 23 / Done :heavy_check_mark: | 24 / Done :heavy_check_mark: |
 | 25 / Done :heavy_check_mark: | 26 / Done :heavy_check_mark: | 27 / Done :heavy_check_mark: | 28 / Done :heavy_check_mark: | 29 / Done :heavy_check_mark: | 30 / Done :heavy_check_mark: |
-| 31 / Done :heavy_check_mark: | 32 / Done :heavy_check_mark: | 33 / :red_circle:  | 34 / :red_circle:  | 35 / :red_circle:  | 36 / :red_circle:  |
-| 37 / :red_circle:  | 38 / :red_circle:  | 39 / :arrows_clockwise:  | 40 / :arrows_clockwise:  | 41 / :arrows_clockwise:  |  |
+| 31 / Done :heavy_check_mark: | 32 / Done :heavy_check_mark: | 33 / :question:  | 34 / :question:  | 35 / :question:  | 36 / :question:  |
+| 37 / :question:  | 38 / :question:  | 39 / :arrows_clockwise:  | 40 / :arrows_clockwise:  | 41 / :arrows_clockwise:  |  |
 
 ## Discussion
 
