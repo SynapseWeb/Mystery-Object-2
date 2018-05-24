@@ -28,6 +28,18 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 * Sections 39-41: Bob
 
+## Section Status (tables are easier to update than images!!)
+
+| # / Status | # / Status | # / Status | # / Status | # / Status | # / Status | 
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1 / Done | 2 / Done | 3 / Done | 4 / Done | 5 / Done | 6 / Done |
+| 7 / Done | 8 / Done | 9 / Done | 10 / Done | 11 / Done | 12 / Done |
+| 13 / Done | 14 / Done | 15 / Done | 16 / Done | 17 / Done | 18 / Done |
+| 19 / Done | 20 / Done | 21 / Done | 22 / Done | 23 / Done | 24 / Done |
+| 25 / Done | 26 / Done | 27 / Done | 28 / Done | 29 / Done | 30 / Done |
+| 31 / Done | 32 / Done | 33 /  | 34 /  | 35 /  | 36 /  |
+| 37 /  | 38 /  | 39 /  | 40 /  | 41 /  |  |
+
 ## Discussion
 
 This is our second experiment in building a collaborative tracing environment using GitHub. The first experiment was intentionally a "free for all" with no defined process to help highlight problem areas. The biggest problems we discovered were:
@@ -48,3 +60,11 @@ The solution to problem (3) is currently to ignore it (for now). Changes in the 
 
 ## All 41 sections (showing which have been completed):
 ![CompletedFrames](docs/All_Frames.png?raw=true "CompletedFrames")
+
+
+Table Example:
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
