@@ -27,7 +27,6 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 ## Currently Claimed Sections
 
 * Sections 39-41: Bob
-* Sections 33-38: Dusten
 
 ## Section Status (tables are easier to update than images!!)
 
@@ -38,8 +37,8 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 | 13 / Done :heavy_check_mark: | 14 / Done :heavy_check_mark: | 15 / Done :heavy_check_mark: | 16 / Done :heavy_check_mark: | 17 / Done :heavy_check_mark: | 18 / Done :heavy_check_mark: |
 | 19 / Done :heavy_check_mark: | 20 / Done :heavy_check_mark: | 21 / Done :heavy_check_mark: | 22 / Done :heavy_check_mark: | 23 / Done :heavy_check_mark: | 24 / Done :heavy_check_mark: |
 | 25 / Done :heavy_check_mark: | 26 / Done :heavy_check_mark: | 27 / Done :heavy_check_mark: | 28 / Done :heavy_check_mark: | 29 / Done :heavy_check_mark: | 30 / Done :heavy_check_mark: |
-| 31 / Done :heavy_check_mark: | 32 / Done :heavy_check_mark: | 33 / :arrows_clockwise:  | 34 / :arrows_clockwise:  | 35 / :arrows_clockwise:  | 36 / :arrows_clockwise:  |
-| 37 / :arrows_clockwise:  | 38 / :arrows_clockwise:  | 39 / :arrows_clockwise:  | 40 / :arrows_clockwise:  | 41 / :arrows_clockwise:  |  |
+| 31 / Done :heavy_check_mark: | 32 / Done :heavy_check_mark: | 33 / Done :heavy_check_mark: | 34 / Done :heavy_check_mark: | 35 / Done :heavy_check_mark: | 36 / Done :heavy_check_mark: |
+| 37 / Done :heavy_check_mark: | 38 / Done :heavy_check_mark: | 39 / :arrows_clockwise:  | 40 / :arrows_clockwise:  | 41 / :arrows_clockwise:  |  |
 
 ## Discussion
 
