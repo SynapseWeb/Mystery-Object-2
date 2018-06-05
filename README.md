@@ -22,7 +22,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 * Step 8: **Unclaim** the sections you're done working on by removing them from your "**Currently Claimed Sections**".
 
-* Step 9: **Go back** to Step 2 and "claim" some more section to work on.
+* Step 9: **Go back** to Step 2 and "claim" some more sections to work on.
 
 ## Currently Claimed Sections
 
@@ -57,7 +57,7 @@ The solution to problem (3) is currently to ignore it (for now). Changes in the 
 
 ## Conclusion
 
-The workflow described above worked fairly well for shared work on a single project. The use of Git to auto-merge the traces from separate sections appears to work well. However, the merging of conflicting changes within the same section has not yet been resolved. 
+The workflow described above worked fairly well for shared work on a single project. The use of Git to auto-merge the traces from separate sections appears to work well. However, the merging of conflicting changes within the same section has not yet been resolved. The animated GIF below compares the original object (white) with the reconstructed object (gray).
 
 ## "Mystery Object 2" ("Stanford Bunny") completed as of June 4th, 2018:
 ![Animation](docs/compare_static.gif?raw=true "White is original, Gray is reconstructed")
