@@ -92,7 +92,7 @@
 	offset3D="0 0 0"
 	type3Dobject="0"
 	first3Dsection="1"
-	last3Dsection="2147483647"
+	last3Dsection="41"
 	max3Dconnection="-1"
 	upper3Dfaces="true"
 	lower3Dfaces="true"
