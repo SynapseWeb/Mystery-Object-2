@@ -65,4 +65,5 @@ The workflow described above worked fairly well for shared work on a single proj
 ## All 41 sections (showing which have been completed):
 ![CompletedFrames](docs/All_Frames.png?raw=true "CompletedFrames")
 
-
+## Animation showing slices inside the original object:
+![SlicingAnimation](animations/slicing/all_frames.gif?raw=true "Slicing Animation")
